@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<html lang="pt.br">
+    <head>
+    <meta charset="UTF-8">
+    <META NAME="viewport"content="width=device-width,initial-scale=1.0">
+    <title> Lucas de Paiva </title>
+    </head>
+    <body>
+        <h1> <strong> Quem sou Eu? </strong> </h1>
+        <p> Eu sou uma pessoa muito alegre, brincalhão e também estudioso.<br> Eu também gosto muito de jogar videogames e etc.</p>
+        <p> <mark> Coisas que eu gosto: </mark></p>
+        <p> 1-Strogonoff da minha vó<br> 2-Red Dead Redemption 2<br> 3- Jogar mines com os crias </p>
+        <img src="https://universonintendo.com/wp-content/uploads/2023/05/Minecraft-Scrn26052023-00.jpg">
+        <link rel="shortcut icon" href="http://d1ujqdpfgkvqfi.cloudfront.net/  favicon-generator/htdocs/favicons/2012-12-28/4d29ed4841ba50544b82fb72c0253c60.ico"type="image/x-icon"/>
+    <h1> coisas que eu gosto </h1>
+    <ul>
+        <li> Café </li>
+        <li> Minecraft </li>
+        <li> Xbox </li>
+</body>
+</html>
