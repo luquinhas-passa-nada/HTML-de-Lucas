@@ -33,7 +33,7 @@
     </ul>
         <li> <s> Quarta-Feira</s> </li>
 <ul>
-        <li> Manhã </li>
+        <li> <s> Manhã </s> </li>
         <li> Tarde </li> 
         <li> Noite </li>
     </ul>
@@ -45,8 +45,9 @@
     </ul>
         <li> <strong> Sexta-Feira </strong> </li>
  <ul>
-        <li> <s> Manhã </s> </li>
+        <li> Manhã </li>
         <li> <mark> Tarde </mark> </li>
+        <li Noite </li>
 </ul>
         <li> Sabádo </li>
 <ul>
