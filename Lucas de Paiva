@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<html lang="pt.br">
+    <head>
+    <meta charset="UTF-8">
+    <META NAME="viewport"content="width=device-width,initial-scale=1.0">
+    <title> Lucas de Paiva </title>
+    </head>
+    <body>
+        <h1> <strong> 28/06/2023 </strong> <mark> Programação </mark> </h1>
+    <style>
+    mark {background-color:#00ffff; color:#000000;}
+    </style>
+       <mark> Programação </mark>
+    <abbr title= "Lucas de Paiva Abreu"> LPA </abbr>
+    <ol>
+        <Li> Domingo= XXV
+        <li> Segunda-Feira= XXVI
+        <li> Terça-Feira= XXVII
+        <li><s> Quarta-Feira= XXVIII</s>
+        <Li> Quinta-Feira= XXIX
+        <li> <strong> Sexta-Feira= XXX </strong>
+        <li> Sabádo= XXXI
