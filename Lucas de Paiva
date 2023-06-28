@@ -11,16 +11,15 @@
     <style>
     mark {background-color:#00ffff; color:#000000;}
     </style>
-       <mark> Programação </mark>
     <abbr title= "Lucas de Paiva Abreu"> LPA </abbr>
-    <ol>
-        <Li> Domingo= XXV
-        <li> Segunda-Feira= XXVI
-        <li> Terça-Feira= XXVII
-        <li><s> Quarta-Feira= XXVIII</s>
-        <Li> Quinta-Feira= XXIX
-        <li> <strong> Sexta-Feira= XXX </strong>
-        <li> Sabádo= XXXI
+    <ol type= "I">
+        <Li> Domingo </li>
+        <li> Segunda-Feira </li>
+        <li> Terça-Feira </li>
+        <li><s> Quarta-Feira</s> </li>
+        <Li> Quinta-Feira </li>
+        <li> <strong> Sexta-Feira </strong> </li>
+        <li> Sabádo </li>
     </ol>
 </body>
 </html
