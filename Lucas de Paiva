@@ -16,7 +16,7 @@
         <Li> Domingo </li>
         <li> Segunda-Feira </li>
         <li> Terça-Feira </li>
-        <li><s> Quarta-Feira</s> </li>
+        <li> <s> Quarta-Feira</s> </li>
         <Li> Quinta-Feira </li>
         <li> <strong> Sexta-Feira </strong> </li>
         <li> Sabádo </li>
