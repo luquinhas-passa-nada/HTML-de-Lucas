@@ -14,11 +14,17 @@
     <abbr title= "Lucas de Paiva Abreu"> LPA </abbr>
     <ol type= "I">
         <Li> Domingo </li>
+        <li> <s> Manhã </s> </li>
+        <li> <mark> Tarde </mark> </li> 
         <li> Segunda-Feira </li>
         <li> Terça-Feira </li>
         <li> <s> Quarta-Feira</s> </li>
         <Li> Quinta-Feira </li>
         <li> <strong> Sexta-Feira </strong> </li>
+ <ul>
+        <li> <s> Manhã </s> </li>
+        <li> <mark> Tarde </mark> </li>
+</ul>
         <li> Sabádo </li>
     </ol>
 </body>
