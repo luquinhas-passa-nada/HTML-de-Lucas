@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<html lang="pt.br">
+    <head>
+    <meta charset="UTF-8">
+    <META NAME="viewport"content="width=device-width,initial-scale=1.0">
+    <title> Lucas de Paiva </title>
+    </head>
+    <body>
+  <h1><mark style="background-color:blue"> Programação (matematica II)</mark></h1>
+  <h1><mark style="background-color:red"> Exercício 3 Segundo Trimestre </mark></h1>
+  <h1> Minhas Férias </h1>
+
+  <p><ins><strong> minhas férias foram...</strong></ins>
+  <ol>
+    <li> Onde Fui </li>
+  <ul>
+    <li> fui em uma festa <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rosaazulkids.com.br%2Fblog%2Ffesta-infantil&psig=AOvVaw207-kTtEFjPDeEmZM0n8Fl&ust=1691069101596000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKDbxbuJvoADFQAAAAAdAAAAABAD"> </li>
+    <li> fui na sorveteria <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnicelocal.br.com%2Fourinhos%2Fshops%2Fthe_best_acai_ourinhos%2F&psig=AOvVaw1nv0tg3C8EE-BNIL0ny7-w&ust=1691069451339000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLD21eKKvoADFQAAAAAdAAAAABAa"> </li>
+  </ul>
+    <li> O que comi: </li>
+  <ul>
+    <li> comi bolo de chocolate <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sabornamesa.com.br%2Fbolos%2Fbolo-de-brigadeiro&psig=AOvVaw10g7nvBKhKmmakAMg3CtCU&ust=1691069667196000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNic_MiLvoADFQAAAAAdAAAAABAK"> </li>
+    <li> comi sorvete e açai <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftendoemvista.com.br%2Fconheca-a-the-best-acai-a-maior-franquia-de-acai-do-brasil%2F&psig=AOvVaw0hHce4sPY8xBSHuQqpFhqn&ust=1691069819164000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCIiVuZWMvoADFQAAAAAdAAAAABAD"></li>
+  </ul>
+    <li> O que bebi </li>
+  <ul>
+    <li> Coca-Cola <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Farenaesports.com.br%2Fleague-of-legends%2Fem-parceira-com-a-coca-cola-riot-esta-dando-premios-gratis-no-lol%2F&psig=AOvVaw2lxG3Jm6nkj_HwLRrS3G77&ust=1691070074099000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNCqv4uNvoADFQAAAAAdAAAAABAD"></li>
+    <li> Energético <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.bemol.com.br%2Fenergetico-red-horse-energy-drink-2-litros-p1074250&psig=AOvVaw0oJfmcWREKzBJTETYVGvhX&ust=1691070163380000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJCA1bmNvoADFQAAAAAdAAAAABBe"></li>
+  </ul>
+  </ol>
+  </p>
+</body>
+</html>
